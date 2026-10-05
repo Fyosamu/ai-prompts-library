@@ -352,6 +352,14 @@ h2 {
 }
 .foot p, .foot li { color: var(--fg-3); font-size: 0.9rem; margin: 0 0 0.5rem; }
 .foot ul { list-style: none; margin: 0; padding: 0; }
+.foot .badges {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 0 1.25rem 1.5rem;
+}
+.foot .badges a { display: inline-block; opacity: 0.9; }
+.foot .badges a:hover { opacity: 1; }
+
 .foot .fine {
   max-width: var(--max);
   margin: 0 auto;
