@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /gen/
+
+# 180 free AI prompts across 10 categories
+Sitemap: https://fyosamu.github.io/ai-prompts-library/sitemap.xml

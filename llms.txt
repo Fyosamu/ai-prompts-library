@@ -1,0 +1,34 @@
+# Dreamer Prompt Lab — 180 free AI prompts
+
+> 180 copy-paste prompts for ChatGPT, Claude, Gemini and Midjourney,
+> split across 10 categories: resume, amazon, etsy, restaurant, real estate, saas, youtube script, fashion, fitness, creative writing.
+> Every prompt states the character, word or structural limit the target
+> platform actually enforces, so the output is usable without a rewrite.
+> Free to use personally or commercially; no signup and no email gate.
+> The complete set — 180 prompts across 164 categories — is a paid product.
+
+## Free pages
+
+- [All 180 free prompts](https://fyosamu.github.io/ai-prompts-library/): the index, every category listed.
+- [Resumes, Job Search & Personal Brand (18)](https://fyosamu.github.io/ai-prompts-library/career.html): resume, job search, linkedin.
+- [Ecommerce, Amazon & Shopify Growth (18)](https://fyosamu.github.io/ai-prompts-library/ecommerce.html): amazon, shopify, listing optimization.
+- [Etsy Seller & Print-on-Demand (18)](https://fyosamu.github.io/ai-prompts-library/etsy.html): etsy, print on demand, etsy seo.
+- [Food, Restaurant & Hospitality (18)](https://fyosamu.github.io/ai-prompts-library/food.html): restaurant, menu, recipe.
+- [Real Estate & Interior Design (18)](https://fyosamu.github.io/ai-prompts-library/realestate.html): real estate, listing description, interior design.
+- [SaaS, Startup & AI Tech Marketing (18)](https://fyosamu.github.io/ai-prompts-library/saas.html): saas, positioning, startup marketing.
+- [YouTube, TikTok & Reels Scripts (18)](https://fyosamu.github.io/ai-prompts-library/video.html): youtube script, tiktok, reels.
+- [Fashion, Beauty & Streetwear (18)](https://fyosamu.github.io/ai-prompts-library/fashion.html): fashion, streetwear, lookbook.
+- [Fitness, Wellness & Coaching (18)](https://fyosamu.github.io/ai-prompts-library/fitness.html): fitness, workout program, personal trainer.
+- [Fiction, Screenwriting & Creative Writing (18)](https://fyosamu.github.io/ai-prompts-library/creative.html): creative writing, screenwriting, story structure.
+
+## The paid set
+
+- [Dreamer Prompt Lab store](https://www.getly.store/store/dreamer-prompt-lab-muifdken): 10,481 prompts in 164 categories, from $4.99, paid in USDT and delivered as an instant ZIP.
+- [Free preview of the full catalogue](https://dreamerpromptlab.getly.page).
+- Also from the same studio: [150 clothing store templates](https://fyosamu.github.io/fashion-store/apparel.html) and the [fixed-price web studio](https://fyosamu.github.io/pricing/).
+
+## How a prompt is used
+
+Open a category page, copy the block, replace every [BRACKET] with your own
+details, and paste it into ChatGPT, Claude or Gemini. Nothing here requires
+an account, and no page sets a cookie.
